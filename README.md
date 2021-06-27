@@ -1,5 +1,5 @@
 - :wave: Howdy, I'm Thomas!
-- :scientist: I'm currently working on a PhD in machine learning.
+- :scientist: I'm a machine learning researcher.
 - :heart: I'm extremely passionate about open source software and open access.
 - :older_man: I used to work as a software engineer.
 - :seedling: I'm on most social platforms as **thomasjo**.
