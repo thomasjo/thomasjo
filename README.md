@@ -1,6 +1,7 @@
 - :wave: Howdy, I'm Thomas!
-- :scientist: I'm a machine learning researcher focusing on computer vision, drones, and autonomous systems.
+- :computer: I work as a software engineer focusing on AI/ML applied to satellite data.
+- :scientist: I used to work as machine learning researcher specialized on computer vision, drones, and autonomous systems.
+- :crab: I mostly write Rust code these days, and occasionally a tiny bit of Python.
 - :heart: I'm extremely passionate about open source software and open access.
-- :older_man: I used to work as a software engineer.
 - :seedling: I'm on most social platforms as **thomasjo**.
 - :raised_hands: I'm always willing to help, so don't be afraid to reach out.
